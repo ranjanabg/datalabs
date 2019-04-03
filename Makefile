@@ -20,7 +20,7 @@ pylint:
 	
 
 db:
-	python3 f518c2aa7e63_.py 
+	python3 migration.py
 
 help:
 
